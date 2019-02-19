@@ -10905,3 +10905,26 @@ pre {
   content: "X";
   color: #333;
 }
+
+.banner {
+  height: 500px;
+  width: 100%;
+  background-image: url("images/erwan-hesry-739762-unsplash.jpg");
+  font-size: medium;
+  color: black;
+  text-align: center;
+  padding-top: 125px;
+  background-repeat: no-repeat;
+}
+
+.banner2 {
+  height: 400px;
+  width: 100%;
+  background-image: url("images/casey-horner-487085-unsplash.jpg");
+  font-size: medium;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 125px;
+  background-repeat: no-repeat;
+}
