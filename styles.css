@@ -10928,3 +10928,12 @@ pre {
   padding-top: 125px;
   background-repeat: no-repeat;
 }
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+}
